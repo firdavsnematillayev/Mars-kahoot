@@ -23,7 +23,6 @@ body {
 		background-position: 0% 50%;
 	}
 }
-<<<<<<< HEAD
 .body-content{
 	margin: 0;
 	padding: 0;
@@ -113,7 +112,6 @@ button:hover{
 #chk:checked ~ .signup label{
 	transform: scale(.6);
 }
-=======
 
 .firstSection {
     width: 100%;
@@ -161,4 +159,3 @@ button:hover{
     background-color: rgb(27, 27, 27);
     color: #fff;
 }
->>>>>>> ea7ddbdce6ff6f17bc8d3676694e5a64a229e1ca
