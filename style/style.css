@@ -1,3 +1,14 @@
-.firstSection {
+<<<<<<< HEAD
+.firstSection {}
     
+=======
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-image: url(./img/background.png);
+>>>>>>> e5a2970bf3f7c0e3fa05d1454a2b680661c47dc4
 }
