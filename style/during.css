@@ -78,3 +78,55 @@
     font-size: 30px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+.answersList {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.answerItems {
+    width: 45%;
+    margin-bottom: 15px;
+    display: flex;
+    border: 1px solid grey;
+   
+}
+
+.answerItems p {
+    padding: 15px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.colorBlue {
+    background-color: blue;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.colorGreen {
+    background-color: green;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.colorRed {
+    background-color: red;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.colorYellow {
+    background-color: yellow;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
