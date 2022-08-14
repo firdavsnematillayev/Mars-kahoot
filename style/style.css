@@ -116,3 +116,7 @@ body {
   .btn-15:active {
     top: 2px;
   }
+  .fa-solid {
+    color: red;
+    font-size: 300px;
+  }
