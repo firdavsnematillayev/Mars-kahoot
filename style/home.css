@@ -106,3 +106,18 @@
     font-family: 'DynaPuff', cursive;
     color: #270041;
   }
+
+  .buttonsName {
+    padding: 15px 0;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: #270041;
+    margin-bottom: 10px;
+    border: none;
+    transition: 0.2s;
+  }
+
+  .buttonsName:hover {
+    background-color: #6E00B8;
+  }
+
